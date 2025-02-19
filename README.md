@@ -11,7 +11,7 @@ Para começar com este projeto, você precisa ter as seguintes ferramentas insta
 
 - **Java 8 ou superior**
 - **Maven ou Gradle** (para construir o projeto)
-- **Spring Boot** (você pode usar o Spring Initializr para gerar um projeto base do Spring Boot)
+- **Spring Boot** (você pode usar o Spring Initializer para gerar um projeto base do Spring Boot)
 
 ## Como funciona a aplicação
 
